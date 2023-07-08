@@ -1,0 +1,7 @@
+20 pesos
+50 pesos
+100 pesos
+200 pesos
+500 pesos
+1000 pesos
+no banknote
